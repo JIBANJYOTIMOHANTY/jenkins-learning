@@ -3,5 +3,7 @@ public class First {
         System.out.println("Hello, This is Java");
         System.out.println("Learning Jenkins");
         System.out.println("Author : Jiban Jyoti Mohanty");
+        Student student = new Student();
+        student.sayHello();
     }
 }
